@@ -121,8 +121,43 @@ public class Main {
 //        } else {
 //            System.out.println("Nothing");
 //        }
-        //Write a program to find the number is negative or positve.
+        //Write a program to find the number is negative or positive.
         //Write a program to check whether number is odd or even.
+        //Write a program to find the largest number. Given input a,b,c,d
+
+        //Write a program to check if a person is eligible to donate blood or not.
+        // 1. Person must be 18+
+        // 2. Person weight should be above 60+
+        // 3. Last blood donated should be more than 3 months
+        // 4. Person is 22+ Years he is eligible to donate blood in less than 3 months.
+        /*
+            input format
+            22 63 2
+
+            output
+            Not eligible
+
+         */
+
+//        int age = 22;
+//        int weight = 60;
+//        int lastDonate = 1;
+//
+//        if (age >= 18 & age <= 21) {
+//            if (weight >= 60 && lastDonate >= 3) {
+//                System.out.println("Eligible");
+//            } else {
+//                System.out.println("Not Eligible");
+//            }
+//        } else if (age >= 22) {
+//            if (weight >= 60) {
+//                System.out.println("Eligible");
+//            } else {
+//                System.out.println("Not Eligible");
+//            }
+//        } else {
+//            System.out.println("Not Eligible");
+//        }
 
     }
 }
