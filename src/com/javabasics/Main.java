@@ -1,6 +1,7 @@
 package com.javabasics;
 
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -80,6 +81,48 @@ public class Main {
 //        String winner = (indreshMarks > kadirMarks) ? "Indesh" : "Kadir";
 //
 //        System.out.println(winner);
+
+//        Scanner sc = new Scanner(System.in);
+//        int a = sc.nextInt();
+//        long b = sc.nextLong();
+//        float c = sc.nextFloat();
+//        double d = sc.nextDouble();
+//        String s = sc.next();
+//
+//        System.out.println(a);
+//        System.out.println(b);
+//        System.out.println(c);
+//        System.out.println(d);
+//        System.out.println(s);
+
+//        int a = 5;
+//        float b = 6.0f;
+//        int d = 10/6;
+//        int c = (int)b;
+//        System.out.println(d);
+
+        //Write a program to find volume of a cube. V = a
+
+        //Write a program to find area of circle. Pi = 3.1416
+        //Write a program to swap a number. a = 5, b = 6;
+//        int a = 5;
+//        int b = 6;
+//
+//        int temp = a;
+//        a = b;
+//        b = temp;
+//        System.out.println(a);
+//        System.out.println(b);
+
+//        if (a > b){
+//            System.out.println("Yes");
+//        } else if( b > a) {
+//            System.out.println("No");
+//        } else {
+//            System.out.println("Nothing");
+//        }
+        //Write a program to find the number is negative or positve.
+        //Write a program to check whether number is odd or even.
 
     }
 }
