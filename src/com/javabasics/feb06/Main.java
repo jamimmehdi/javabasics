@@ -1,4 +1,4 @@
-package com.javabasics;
+package com.javabasics.feb06;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -158,7 +158,13 @@ public class Main {
 //        } else {
 //            System.out.println("Not Eligible");
 //        }
-
+//        int a = 3;
+//        int b = 9;
+//        int c = 1;
+//
+////      int d = Math.max(Math.max(a,b),c);
+//
+//        System.out.println(Math.max(Math.max(Math.max(Math.max(6,9),6), 10),8));
     }
 }
 
