@@ -6,7 +6,7 @@ Basic Salary >= 20001 : HRA = 30%, DA = 95%
  */
 import java.util.Scanner;
 
-public class ifelse {
+public class salary {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
